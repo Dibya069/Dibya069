@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: dibyamohanty069@gmail.com
 - 😄 Pronouns: Dibya
 - ⚡ Fun fact: I love to playing with data
-
+- Skills: Power BI, Python, Pandas, SQL, MySql, Bootstrap, jQuery, JavaScript, Power Point, PEGA, MongoDB, Ms Excel
+- Software: Pycharm, MS Office, Jupyter Notebook, VS Code, Eclips IDE
