@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Myself
 - 🌱 I’m currently learning Data Science | Data Analysis | ML | AL | NLP
 - 🤔 I’m looking for help with Deep Learning
-- 💬 Ask me about ...
+- 💬 Ask me about : Python, Pandas, Machine Learning (Reinforcement learning)
 - 📫 How to reach me: dibyamohanty069@gmail.com
 - 😄 Pronouns: Dibya
 - ⚡ Fun fact: I love to playing with data
