@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Deep Learning
 - 💬 Ask me about : Python, Pandas, Machine Learning (Reinforcement learning)
 - 📫 How to reach me: dibyamohanty069@gmail.com
-- 😄 Pronouns: Dibya
+- 😄 Pronouns: Dibyo
 - ⚡ Fun fact: I love to playing with data
 - Skills: Power BI, Python, Pandas, Numpy, Matplotlib, R language, SQL, MySql, Bootstrap, jQuery, JavaScript, Power Point, PEGA, MongoDB, Ms Excel
 - Software: Pycharm, MS Office, Jupyter Notebook, VS Code, Eclips IDE
