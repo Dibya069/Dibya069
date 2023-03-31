@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: dibyamohanty069@gmail.com
 - 😄 Pronouns: Dibyo
 - ⚡ Fun fact: I love to playing with data
-- Skills: Power BI, Python, Pandas, Numpy, Matplotlib, R language, SQL, MySql, Bootstrap, jQuery, JavaScript, Power Point, PEGA, MongoDB, Ms Excel
-- Software: Pycharm, MS Office, Jupyter Notebook, VS Code, Eclips IDE
+- Programming ; Python, R, HTML, CSS, JS, jQuery, Bootstrap, React.JS, SQL, Flask
+- Visualization : Power BI, Excel Chart, Power Point, Jupyter Notebook
+- Database: MySQL, MongoDB
+- Soft Skills: Communication skills, Presentation skills, Teaching skills
+- Software: Pycharm, MS Office, Jupyter Notebook, VS Code, Eclips IDE, Power BI
 - Portfolio: https://www.naukri.com/mnjuser/profile?id=&altresid
