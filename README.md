@@ -12,9 +12,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: dibyamohanty069@gmail.com
 - 😄 Pronouns: Dibyo
 - ⚡ Fun fact: I love to playing with data
-- Programming ; Python, R, HTML, CSS, JS, jQuery, Bootstrap, React.JS, SQL, Flask
+- Programming ; Python, R, HTML, CSS, JS, jQuery, Bootstrap, React.JS, SQL, Flask, ML
 - Visualization : Power BI, Excel Chart, Power Point, Jupyter Notebook
 - Database: MySQL, MongoDB
 - Soft Skills: Communication skills, Presentation skills, Teaching skills
 - Software: Pycharm, MS Office, Jupyter Notebook, VS Code, Eclips IDE, Power BI
 - Portfolio: https://www.naukri.com/mnjuser/profile?id=&altresid
+- Cirtificates:
+    1. Google Cloud Big Data and Machine Learning Fundamentals [ https://coursera.org/verify/98ZZUQUXXX35 ]
+    2. Data Science Tools by IBM [ https://www.credly.com/go/eIDNX3q7 ]
+    3. Python 101 for Data Science [ https://courses.cognitiveclass.ai/certificates/aa9e6aa84eb7434f838699c6d947179c ]
