@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - Visualization : Power BI, Excel Chart, Power Point, Jupyter Notebook
 - Database: MySQL, MongoDB
 - Soft Skills: Communication skills, Presentation skills, Teaching skills
-- Software: Pycharm, MS Office, Jupyter Notebook, VS Code, Eclips IDE, Power BI
+- Software: Pycharm, MS Office, Jupyter Notebook, VS Code, Eclips IDE, Power BI, MySql Work Bench
 - Portfolio: https://www.naukri.com/mnjuser/profile?id=&altresid
 - Cirtificates:
     1. Google Cloud Big Data and Machine Learning Fundamentals [ https://coursera.org/verify/98ZZUQUXXX35 ]
