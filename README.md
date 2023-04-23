@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Myself
 - 🌱 I’m currently learning Data Science | Data Analysis | ML | DL | AI | NLP | AWS
 - 🤔 I’m looking for help with Deep Learning
-- 💬 Ask me about : Python, Pandas, Machine Learning (Reinforcement learning)
+- 💬 Ask me about : Python, Pandas, Machine Learning, EDA, Power Point, Flask
 - 📫 How to reach me: dibyamohanty069@gmail.com
 - 😄 Pronouns: Dibyo
 - ⚡ Fun fact: I love to playing with data
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - Visualization : Power BI, Excel Chart, Power Point, Jupyter Notebook
 - Database: MySQL, MongoDB
 - Soft Skills: Communication skills, Presentation skills, Teaching skills
-- Software: Pycharm, MS Office, Jupyter Notebook, VS Code, Eclips IDE, Power BI, MySql Work Bench
+- Software: Pycharm, MS Office, Jupyter Notebook, VS Code, Eclips IDE, Power BI, MySql Work Bench, Google Colab
 - Portfolio: https://www.naukri.com/mnjuser/profile?id=&altresid
 - Cirtificates:
     1. Google Cloud Big Data and Machine Learning Fundamentals [ https://coursera.org/verify/98ZZUQUXXX35 ]
