@@ -23,3 +23,4 @@ Here are some ideas to get you started:
     1. Google Cloud Big Data and Machine Learning Fundamentals [ https://coursera.org/verify/98ZZUQUXXX35 ]
     2. Data Science Tools by IBM [ https://www.credly.com/go/eIDNX3q7 ]
     3. Python 101 for Data Science [ https://courses.cognitiveclass.ai/certificates/aa9e6aa84eb7434f838699c6d947179c ]
+    4. Google Advanced Data Analytics Capstone [ https://coursera.org/share/7c655a84b77b37fab283af01dd08bf2f ]
