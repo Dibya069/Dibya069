@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: dibyamohanty069@gmail.com
 - 😄 Pronouns: Dibyo
 - ⚡ Fun fact: I love to playing with data
-- Programming ; Python, R, HTML, CSS, JS, jQuery, Bootstrap, React.JS, SQL, Flask
+- Programming ; Python, R, HTML, CSS, JS, jQuery, Bootstrap, React.JS, SQL, Flask, Modeling
 - Visualization : Power BI, Excel Chart, Power Point, Jupyter Notebook
 - Database: MySQL, MongoDB
 - Field Skill: Data Analyst | Data Science | Data Research | Market Research | Web Development | Market Reaserch | Data Visualization
