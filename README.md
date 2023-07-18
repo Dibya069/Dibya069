@@ -4,7 +4,7 @@
 **Dibya069/Dibya069** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- Summary: Data Analyst with good knowledge in Power BI, SQL, pandas, Python, R. Also known to little bit in ML as fascinate in Data science. Part timer as a web-developer by React.js, Bootstrap, JS and Express.js. Creating advance presentation by Power Point.
+- Summary: Passionate in Data Science and Data Analyst with good knowledge in Power BI, SQL, pandas, Python, R. Also known to ML, DL, and Object detection as fascinate in Data science. Part timer as a web-developer by React.js, Bootstrap, JS and Express.js. Creating advance presentation by Power Point.
 - 🔭 I’m currently working on Myself
 - 🌱 I’m currently learning Data Science | Data Analysis | ML | DL | AI | NLP | AWS
 - 🤔 I’m looking for help with Deep Learning
