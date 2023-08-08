@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about : Python, Pandas, Machine Learning, EDA, Power Point, Flask
 - 📫 How to reach me: dibyamohanty069@gmail.com
 - 😄 Pronouns: Dibyo
-- ⚡ Fun fact: I love to playing with data
+- ⚡ Fun fact: I love to do Cooking
 - Programming ; Python, R, HTML, CSS, JS, jQuery, Bootstrap, React.JS, SQL, Flask, Modeling
 - Visualization : Power BI, Excel Chart, Power Point, Jupyter Notebook
 - Database: MySQL, MongoDB
