@@ -23,6 +23,7 @@ Here are some ideas to get you started:
     2. Data Science Tools by IBM [ https://www.credly.com/go/eIDNX3q7 ]
     3. Python 101 for Data Science [ https://courses.cognitiveclass.ai/certificates/aa9e6aa84eb7434f838699c6d947179c ]
     4. Google Advanced Data Analytics Capstone [ https://coursera.org/share/7c655a84b77b37fab283af01dd08bf2f ]
+    5. AWS re / start from Tech Mahindra [ https://drive.google.com/file/d/1HuZh3qZpZPIDqABLjwBYeVsqabWg9fRh/view?usp=sharing ]
 - Projects:
     1. Smart Security with advance Face detection (Python, OpenCV, FaceDetection) [used to secure the house / office / working_place]
     2. Hospitality Domain Price Analysis (Excel, Python, PowerBI) [Analize the Revenue, price and cause of the hotels]
