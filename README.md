@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to do Cooking
 - Programming ; Python, R, HTML, CSS, JS, jQuery, Bootstrap, React.JS, SQL, Flask, Modeling
 - Visualization : Power BI, Excel Chart, Power Point
-- Database: MySQL, MongoDB
+- Database: MySQL, MongoDB, Big Data
 - Field Skill: Data Analyst | Data Science | Data Research | Market Research | Web Development | Data Visualization | EDA, ETL, PACE
 - Soft Skills: Communication skills, Presentation skills, Teaching skills
 - Software: Pycharm, MS Office, Jupyter Lab, VS Code, Eclips IDE, Power BI, MySql Work Bench, Google Colab, Anaconda
