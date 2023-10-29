@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 - Summary: Passionate in Data Science and Data Analyst with good knowledge in Power BI, SQL, pandas, Python, R. Also known to ML, DL, and Object detection as fascinate in Data science. Part timer as a web-developer by React.js, Bootstrap, JS and Express.js. Creating advance presentation by Power Point.
 - 🔭 I’m currently working on Myself
-- 🌱 I’m currently learning Data Science | Data Analysis | ML | DL | AI | NLP | AWS | CNN | RNN
+- 🌱 I’m currently learning ![Alt text](https://as2.ftcdn.net/v2/jpg/02/23/82/27/1000_F_223822764_zvh4aFAm13RStp3aGXyJRHff6UBNEUN3.jpg) | ![Alt text](https://cdn1.vectorstock.com/i/1000x1000/77/35/deep-learning-thin-line-icon-creative-simple-vector-26457735.jpg) |
 - 🤔 I’m looking for help with Deep Learning
 - 💬 Ask me about : Python, Pandas, Machine Learning, EDA, Power Point, Flask
 - 📫 How to reach me: dibyamohanty069@gmail.com
