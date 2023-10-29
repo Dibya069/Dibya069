@@ -6,12 +6,12 @@
 Here are some ideas to get you started:
 - Summary: Passionate in Data Science and Data Analyst with good knowledge in Power BI, SQL, pandas, Python, R. Also known to ML, DL, and Object detection as fascinate in Data science. Part timer as a web-developer by React.js, Bootstrap, JS and Express.js. Creating advance presentation by Power Point.
 - 🔭 I’m currently working on Myself
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning:
+
   <img src = "https://img.freepik.com/premium-vector/computer-vision-icon-simple-element-illustration-computer-vision-symbol-design-from-artificial-intelligence-collection-can-be-used-web-mobile_159242-12197.jpg" height = "100" width = "100" alt="Computer Vision"> | 
 <img src = "https://media.istockphoto.com/id/1159595193/vector/deep-learning-icon-simple-element-illustration.jpg?s=1024x1024&w=is&k=20&c=95CSgMrhdvbWnKm8_LOjPu8pw02yj7g0UQJyZQLH0Jg=" height = "100" width = "100" alt="DeepLearning"> |
 <img src = "https://thumbs.dreamstime.com/b/machine-learning-icon-two-color-design-red-black-style-elements-icons-collection-creative-web-apps-software-print-144659464.jpg" height = "100" width = "100" alt="MachineLearning"> |
-<img src = "https://assets.stickpng.com/images/6308b83261b3e2a522f01467.png"  height = "100" width = "100" alt="HuggingFace"> |
-<img src = "https://logowik.com/content/uploads/images/tensorflow4903.jpg" height = "100" width = "100" alt="TensoreFlow">
+<img src = "[https://assets.stickpng.com/images/6308b83261b3e2a522f01467.png](https://images.prismic.io/contrary-research/19d1b1f4-90a6-431d-be0e-8ec5cabfd887_Hugging+Face+Long+Logo.png?auto=compress,format)"  height = "100" width = "160" alt="HuggingFace"> | <img src = "https://logowik.com/content/uploads/images/tensorflow4903.jpg" height = "100" width = "100" alt="TensoreFlow">
 - 🤔 I’m looking for help with Deep Learning
 - 💬 Ask me about : Python, Pandas, Machine Learning, EDA, Power Point, Flask
 - 📫 How to reach me: dibyamohanty069@gmail.com
