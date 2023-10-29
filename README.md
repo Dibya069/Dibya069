@@ -10,7 +10,7 @@ Here are some ideas to get you started:
   <img src = "https://img.freepik.com/premium-vector/computer-vision-icon-simple-element-illustration-computer-vision-symbol-design-from-artificial-intelligence-collection-can-be-used-web-mobile_159242-12197.jpg" height = "100" width = "100" alt="Computer Vision"> | 
 <img src = "https://media.istockphoto.com/id/1159595193/vector/deep-learning-icon-simple-element-illustration.jpg?s=1024x1024&w=is&k=20&c=95CSgMrhdvbWnKm8_LOjPu8pw02yj7g0UQJyZQLH0Jg=" height = "100" width = "100" alt="DeepLearning"> |
 <img src = "https://thumbs.dreamstime.com/b/machine-learning-icon-two-color-design-red-black-style-elements-icons-collection-creative-web-apps-software-print-144659464.jpg" height = "100" width = "100" alt="MachineLearning"> |
-<img src = "https://assets.stickpng.com/images/6308b83261b3e2a522f01467.png"  height = "100" width = "100" alt="Hugging Face"> |
+<img src = "https://assets.stickpng.com/images/6308b83261b3e2a522f01467.png"  height = "100" width = "100" alt="HuggingFace"> |
 <img src = "https://logowik.com/content/uploads/images/tensorflow4903.jpg" height = "100" width = "100" alt="TensoreFlow">
 - 🤔 I’m looking for help with Deep Learning
 - 💬 Ask me about : Python, Pandas, Machine Learning, EDA, Power Point, Flask
