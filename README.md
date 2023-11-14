@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: dibyamohanty069@gmail.com
 - 😄 Pronouns: Dibyo
 - ⚡ Fun fact: I love to do Cooking
-- Programming ; Python, R, HTML, CSS, JS, jQuery, Bootstrap, React.JS, SQL, Flask, Modeling
-- Visualization : Power BI, Excel Chart, Power Point
+- Programming ; ![Python](https://img.shields.io/badge/Python-blue.svg), ![R-Programming](https://img.shields.io/badge/R-Programming-grey.svg), ![SQL](https://img.shields.io/badge/SQL-AGPL-blue.svg), ![Flask](https://img.shields.io/badge/Flask-black.svg)
+- Visualization : ![PowerBI](https://img.shields.io/badge/PowerBI-yellow.svg), ![Exceel](https://img.shields.io/badge/Exceel-green.svg), ![PowerPoint](https://img.shields.io/badge/PowerPoint-orange.svg)
 - Database: MySQL, MongoDB, Big Data
 - Field Skill: Data Analyst | Data Science | Data Research | Market Research | Web Development | Data Visualization | EDA, ETL, PACE
 - Soft Skills: Communication skills, Presentation skills, Teaching skills
