@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: dibyamohanty069@gmail.com
 - 😄 Pronouns: Dibyo
 - ⚡ Fun fact: I love to do Cooking
-- Programming ; ![Python](https://img.shields.io/badge/Python-blue.svg), ![R-Programming](https://img.shields.io/badge/R-Programming-grey.svg), ![SQL](https://img.shields.io/badge/SQL-AGPL-blue.svg), ![Flask](https://img.shields.io/badge/Flask-black.svg)
+- Programming ; ![Python](https://img.shields.io/badge/Python-blue.svg), ![R-Programming](https://img.shields.io/badge/R-Programming-grey.svg), ![SQL](https://img.shields.io/badge/SQL-Teal.svg), ![Flask](https://img.shields.io/badge/Flask-Brown.svg)
 - Visualization : ![PowerBI](https://img.shields.io/badge/PowerBI-yellow.svg), ![Exceel](https://img.shields.io/badge/Exceel-green.svg), ![PowerPoint](https://img.shields.io/badge/PowerPoint-orange.svg)
-- Database: MySQL, MongoDB, Big Data
+- Database: ![MySql](https://img.shields.io/badge/MySql-Cyan.svg), ![MongoDB](https://img.shields.io/badge/MongoDB-Salmon.svg),
 - Field Skill: Data Analyst | Data Science | Data Research | Market Research | Web Development | Data Visualization | EDA, ETL, PACE
 - Soft Skills: Communication skills, Presentation skills, Teaching skills
 - Software: Pycharm, MS Office, Jupyter Lab, VS Code, Eclips IDE, Power BI, MySql Work Bench, Google Colab, Anaconda
