@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: dibyamohanty069@gmail.com
 - 😄 Pronouns: Dibyo
 - ⚡ Fun fact: I love to do Cooking
-- Programming ; ![Python](https://img.shields.io/badge/Python-blue.svg), ![R-Programming](https://img.shields.io/badge/R-Programming-grey.svg), ![SQL](https://img.shields.io/badge/SQL-Teal.svg), ![Flask](https://img.shields.io/badge/Flask-Brown.svg)
-- Visualization : ![PowerBI](https://img.shields.io/badge/PowerBI-yellow.svg), ![Exceel](https://img.shields.io/badge/Exceel-green.svg), ![PowerPoint](https://img.shields.io/badge/PowerPoint-orange.svg)
-- Database: ![MySql](https://img.shields.io/badge/MySql-Cyan.svg), ![MongoDB](https://img.shields.io/badge/MongoDB-Salmon.svg)
+- Programming ; ![Python](https://img.shields.io/badge/Python-blue.svg), ![R-Programming](https://img.shields.io/badge/R-Programming-grey.svg), ![SQL](https://img.shields.io/badge/SQL-teal.svg), ![Flask](https://img.shields.io/badge/Flask-silver.svg)
+- Visualization : ![PowerBI](https://img.shields.io/badge/PowerBI-yellow.svg), ![Excel](https://img.shields.io/badge/Excel-green.svg), ![PowerPoint](https://img.shields.io/badge/PowerPoint-orange.svg)
+- Database: ![MySql](https://img.shields.io/badge/MySql-cyan.svg), ![MongoDB](https://img.shields.io/badge/MongoDB-salmon.svg)
 - Field Skill: Data Analyst | Data Science | Data Research | Market Research | Web Development | Data Visualization | EDA, ETL, PACE
 - Soft Skills: Communication skills, Presentation skills, Teaching skills
 - Software: Pycharm, MS Office, Jupyter Lab, VS Code, Eclips IDE, Power BI, MySql Work Bench, Google Colab, Anaconda
