@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - Visualization : ![PowerBI](https://img.shields.io/badge/PowerBI-yellow.svg), ![Excel](https://img.shields.io/badge/Excel-green.svg), ![PowerPoint](https://img.shields.io/badge/PowerPoint-orange.svg)
 - Database: ![MySql](https://img.shields.io/badge/MySql-cyan.svg), ![MongoDB](https://img.shields.io/badge/MongoDB-salmon.svg)
 - Field Skill: Data Analyst | Data Science | Data Research | Market Research | Web Development | Data Visualization | EDA, ETL, PACE
-- Soft Skills: Communication skills, Presentation skills, Teaching skills
+- Soft Skills: <img src = "https://img.freepik.com/free-vector/communication-logo-design-template_23-2149872851.jpg" alt = "Communication" height = "50" width = "80" >, <img src = "https://previews.123rf.com/images/dstarky/dstarky1701/dstarky170101209/69424070-presentation-icon-or-logo-in-modern-line-style-high-quality-black-outline-pictogram-for-web-site.jpg" alt = "Presentation" height = "50" width = "80" >, <img src = "https://previews.123rf.com/images/vectorgalaxy/vectorgalaxy1805/vectorgalaxy180500903/101157248-teacher-logo-isolated-on-white-background-for-your-web-and-mobile-app-design-colorful-vector-icon.jpg" alt = "Teaching" height = "50" width = "80" >
 - Software: Pycharm, MS Office, Jupyter Lab, VS Code, Eclips IDE, Power BI, MySql Work Bench, Google Colab, Anaconda
 ***
 ***
