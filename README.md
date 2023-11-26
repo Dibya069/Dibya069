@@ -20,23 +20,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to do Cooking
 ***
 ***
-<h2> Programming: </h2>
-  ![Python](https://img.shields.io/badge/Python-blue.svg), ![R-Programming](https://img.shields.io/badge/R-Programming-grey.svg), ![SQL](https://img.shields.io/badge/SQL-teal.svg), ![Flask](https://img.shields.io/badge/Flask-silver.svg)
+- Programming: ![Python](https://img.shields.io/badge/Python-blue.svg), ![R-Programming](https://img.shields.io/badge/R-Programming-grey.svg), ![SQL](https://img.shields.io/badge/SQL-teal.svg), ![Flask](https://img.shields.io/badge/Flask-silver.svg)
 
-<h2> Visualization : </h2>
-  ![PowerBI](https://img.shields.io/badge/PowerBI-yellow.svg), ![Excel](https://img.shields.io/badge/Excel-green.svg), ![PowerPoint](https://img.shields.io/badge/PowerPoint-orange.svg)
+- Visualization : ![PowerBI](https://img.shields.io/badge/PowerBI-yellow.svg), ![Excel](https://img.shields.io/badge/Excel-green.svg), ![PowerPoint](https://img.shields.io/badge/PowerPoint-orange.svg)
 
-<h2> Database: </h2>
-  ![MySql](https://img.shields.io/badge/MySql-cyan.svg), ![MongoDB](https://img.shields.io/badge/MongoDB-salmon.svg)
+- Database: ![MySql](https://img.shields.io/badge/MySql-cyan.svg), ![MongoDB](https://img.shields.io/badge/MongoDB-salmon.svg)
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
   Data Analyst | Data Science | Data Research | Market Research | Web Development | Data Visualization | EDA, ETL, PACE
   
-<h2> Soft Skills: </h2>
-  <img src = "https://img.freepik.com/free-vector/communication-logo-design-template_23-2149872851.jpg" alt = "Communication" height = "50" width = "80" >, <img src = "https://previews.123rf.com/images/dstarky/dstarky1701/dstarky170101209/69424070-presentation-icon-or-logo-in-modern-line-style-high-quality-black-outline-pictogram-for-web-site.jpg" alt = "Presentation" height = "50" width = "80" >, <img src = "https://previews.123rf.com/images/vectorgalaxy/vectorgalaxy1805/vectorgalaxy180500903/101157248-teacher-logo-isolated-on-white-background-for-your-web-and-mobile-app-design-colorful-vector-icon.jpg" alt = "Teaching" height = "50" width = "80" >
+- Soft Skills: <img src = "https://img.freepik.com/free-vector/communication-logo-design-template_23-2149872851.jpg" alt = "Communication" height = "50" width = "80" >, <img src = "https://previews.123rf.com/images/dstarky/dstarky1701/dstarky170101209/69424070-presentation-icon-or-logo-in-modern-line-style-high-quality-black-outline-pictogram-for-web-site.jpg" alt = "Presentation" height = "50" width = "80" >, <img src = "https://previews.123rf.com/images/vectorgalaxy/vectorgalaxy1805/vectorgalaxy180500903/101157248-teacher-logo-isolated-on-white-background-for-your-web-and-mobile-app-design-colorful-vector-icon.jpg" alt = "Teaching" height = "50" width = "80" >
 
-<h2> Software: </h2> 
-  Pycharm, MS Office, Jupyter Lab, VS Code, Eclips IDE, Power BI, MySql Work Bench, Google Colab, Anaconda
+- Software: Pycharm, MS Office, Jupyter Lab, VS Code, Eclips IDE, Power BI, MySql Work Bench, Google Colab, Anaconda
 ***
 ***
 - Cirtificates:
