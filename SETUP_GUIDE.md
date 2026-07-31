@@ -61,7 +61,7 @@ git push -u origin main
 5. Click **Save**
 6. Wait 2-3 minutes
 
-### 5️⃣ View Your Live Website! 🎉
+### 5️⃣ View Your Live Website!
 
 Your portfolio will be live at:
 ```
