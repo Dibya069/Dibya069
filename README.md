@@ -1,149 +1,107 @@
-# Hi there, I'm Dibyajyoti Mohanty 👋
-
+<!-- HEADER WAVE BANNER -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060913,50:00ff88,100:00ccff&height=220&section=header&text=Dibyajyoti%20Mohanty&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" />
 
-### 🤖 AI/ML Engineer | Generative AI & Agentic Workflows Specialist | Speech AI & Computer Vision Expert
+  <!-- ANIMATED TYPING SUBTITLE -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=AI+%2F+ML+Engineer;Generative+AI+%26+Agentic+Workflows+Specialist;Conversational+AI+%26+Real-time+Speech;GPU+Optimization+%26+High-Throughput+ML;Solving+Core+AI+%26+LLM+Engineering+Issues" alt="Typing SVG" />
+  </a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=react&logoColor=060913)](https://github.com/Dibya069/Dibya069)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dibyajyoti-mohanty-4a72501b2/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mohantydibyajyoti47)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dibyamohanty069@gmail.com)
-
----
-
-```typescript
-const dibyajyoti = {
-    role: "AI / ML Engineer",
-    expertise: ["Generative AI", "Agentic RAG Systems", "Speech & Audio AI", "Computer Vision", "GPU Optimization"],
-    currentFocus: "Building production-grade AI applications with real-time speech pipelines and multi-agent workflows",
-    metrics: {
-        qaWorkloadReduction: "80%",
-        hrTicketDeflection: "65%",
-        provisioningSpeedup: "60%"
-    },
-    location: "India 🇮🇳"
-};
-```
-
+  <p align="center">
+    <a href="https://www.linkedin.com/in/dibyajyoti-mohanty-4a72501b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://medium.com/@mohantydibyajyoti47"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+    <a href="mailto:dibyamohanty069@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ⚡ Executive Summary
+### ⚡ Beyond the Hype: Core AI & ML Engineering
 
-AI/ML Engineer with extensive experience developing and deploying production-grade NLP, speech recognition/synthesis, and generative AI architectures. Specializing in **Retrieval-Augmented Generation (RAG)**, **Agentic Workflows (LangChain, LangGraph)**, **Real-time Speech Pipelines (ASR/TTS)**, and **Multimodal Computer Vision**. 
+```typescript
+// 🚀 AI Core System Initialization
+class AIEngineer {
+    name     = "Dibyajyoti Mohanty";
+    mission  = "Solving core infrastructure, latency, & scaling challenges in AI/ML";
+    mantra   = "Beyond surface-level wrappers — Production-grade AI systems";
+    
+    spectrum = [
+        "🤖 Agentic AI & Multi-Agent Orchestration (LangChain / LangGraph)",
+        "🗣 Conversational AI & Real-time Speech (Whisper ASR / StyleTTS2)",
+        "🛡 LLM Gateways, Guardrails & Fallback Proxies",
+        "👁 Multimodality & Vision-Language Models (Qwen 3.5 VLM)",
+        "⚡ GPU Optimization, Multi-GPU Scheduling & CUDA Performance",
+        "🔄 Containerized MLOps & High-Throughput Pipelines (Docker/K8s)"
+    ];
+}
+```
 
-Proven track record in translating cutting-edge AI research into enterprise-grade, high-throughput production systems with GPU optimization.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+### 💡 Core Engineering Spectrum
 
-## 🚀 Key Technical Expertise
+<details open>
+<summary>🤖 <b>Agentic AI & Multi-Agent Orchestration</b></summary>
+<br />
+Architecting collaborative multi-agent decision loops, stateful workflows, short/long-term memory architectures, and dynamic tool routing using <b>LangChain</b> and <b>LangGraph</b>.
+</details>
 
-<table align="center">
-  <tr>
-    <th width="30%">Domain</th>
-    <th width="70%">Technologies & Frameworks</th>
-  </tr>
-  <tr>
-    <td><b>Generative AI & LLMs</b></td>
-    <td>LangChain, LangGraph, RAG (Agentic, Multimodal, Knowledge Graph RAG), Fine-tuning (QLoRA, Unsloth), Prompt Engineering, Llama-3.3, Groq, Mistral, OpenAI, Gemini</td>
-  </tr>
-  <tr>
-    <td><b>Speech & Audio AI</b></td>
-    <td>ASR (Faster-Whisper, Deepgram), TTS & Voice Cloning (StyleTTS2), Speaker Diarization, Voice Activity Detection (VAD), Real-time Streaming</td>
-  </tr>
-  <tr>
-    <td><b>Computer Vision</b></td>
-    <td>Object Detection (YOLO), Semantic Segmentation (DeepLabv3+, U-Net), Vision-Language Models (Qwen 3.5 VLM), Pose Estimation (MediaPipe), OpenCV, torchvision</td>
-  </tr>
-  <tr>
-    <td><b>Vector Databases & Graph DBs</b></td>
-    <td>Qdrant, ChromaDB, FAISS, Neo4j (Knowledge Graphs), PostgreSQL, Redis, MongoDB, MySQL</td>
-  </tr>
-  <tr>
-    <td><b>GPU & AI Infrastructure</b></td>
-    <td>CUDA, cuDNN, NVIDIA Drivers, Multi-GPU Round-Robin Scheduling, PyTorch, TensorFlow, GPU Optimization</td>
-  </tr>
-  <tr>
-    <td><b>MLOps & Cloud DevOps</b></td>
-    <td>Docker, Kubernetes, AWS (SageMaker, ECS, API Gateway), GCP, MLflow, CI/CD, Git, Linux</td>
-  </tr>
-</table>
+<details open>
+<summary>🗣 <b>Conversational AI & Real-time Speech</b></summary>
+<br />
+Engineering low-latency audio communication pipelines integrating <b>ASR</b> (Faster-Whisper, Deepgram), <b>TTS & Voice Cloning</b> (StyleTTS2), Speaker Diarization, and VAD.
+</details>
 
----
+<details open>
+<summary>🛡 <b>LLM Gateways, Guardrails & Reliability</b></summary>
+<br />
+Implementing enterprise LLM proxies, fallback routing, dynamic prompt orchestration, schema enforcement, rate-limiting, and evaluation frameworks to ensure production stability.
+</details>
 
-## 🛠 Tech Stack & Tools
+<details open>
+<summary>👁 <b>Multimodality & Vision-Language Models</b></summary>
+<br />
+Building multimodal RAG pipelines and vision applications with fine-tuned <b>Vision-Language Models (Qwen 3.5 VLM via QLoRA/Unsloth)</b>, <b>ControlNet</b>, and <b>DeepLabv3+</b> semantic segmentation.
+</details>
+
+<details open>
+<summary>⚡ <b>GPU Optimization, Latency & Performance</b></summary>
+<br />
+Maxing out hardware throughput with <b>CUDA / cuDNN</b> tuning, multi-GPU round-robin scheduling, memory caching, and speculative decoding to eliminate latency bottlenecks.
+</details>
+
+<details open>
+<summary>🔄 <b>MLOps, Data Pipelines & Infrastructure</b></summary>
+<br />
+Deploying scalable containerized pipelines using <b>Docker</b>, <b>Kubernetes</b>, Vector Databases (<b>Qdrant</b>, <b>ChromaDB</b>), Knowledge Graphs (<b>Neo4j</b>), and cloud backend services (AWS/GCP).
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 🛠 Tech Stack & Ecosystem
 
 <p align="center">
-  <!-- Languages & Frameworks -->
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <!-- AI & Data -->
-  <img src="https://img.shields.io/badge/langchain-12100E?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <!-- Infrastructure -->
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-12100E?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+### 🎯 Proven Engineering Outcomes & Metrics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/QA_Workload_Reduction-85%25-00FF88?style=for-the-badge&logo=prometheus&logoColor=060913" />
+  <img src="https://img.shields.io/badge/HR_Ticket_Deflection-75%25-00CCFF?style=for-the-badge&logo=probot&logoColor=060913" />
+  <img src="https://img.shields.io/badge/Faster_Provisioning-80%25-7000FF?style=for-the-badge&logo=speedtest&logoColor=white" />
 </p>
 
 ---
 
-## 🌟 Featured Open-Source Projects
-
-### 🧠 [AI-Powered NPC System with Dynamic Personality](https://github.com/Dibya069/AI-NPC-Game_NPCs-with-Soul)
-Multi-layered AI agent system featuring persona core, perception layer, decision engine, and Groq/Llama 3.3 70B integration for real-time dynamic conversations. Implements dual-memory system (short & long-term storage), trust scoring, emergent social dynamics, and NPC-to-NPC interactions.
-> **Tech Stack:** `LangChain` `LangGraph` `Llama 3.3` `AI Agents` `Memory Architecture`
-
----
-
-### 🤖 [Multi-Agent AI Assistant with Long-Term Memory](https://github.com/Dibya069/AGI-ChatBot)
-Multi-agent conversational AI platform supporting threaded conversations, tool orchestration, dynamic context switching, and collaborative reasoning. Built with Flask, React, LangGraph, and Groq Llama-3.
-> **Tech Stack:** `LangChain` `LangGraph` `Flask` `React` `Groq`
-
----
-
-### 🎨 [AI Tattoo Generator with Advanced Vision](https://github.com/Dibya069/Image-Generator-App)
-Full-stack AI application generating custom tattoo designs using DALL-E 3, Stable Diffusion XL, and ControlNet. Features text-to-image style transfer, pose estimation (MediaPipe), and semantic body part segmentation (DeepLabv3+).
-> **Tech Stack:** `DALL·E 3` `Stable Diffusion XL` `ControlNet` `MediaPipe` `DeepLabv3+` `Flask` `React`
-
----
-
-## 📝 Featured Publications & Technical Articles
-
-| Article Title | Publisher / Platform | Key Topics |
-| :--- | :---: | :--- |
-| 🔗 [**Creating Scalable RAG Systems with LangChain, Neo4j, and Advanced LLMs**](https://medium.com/gopenai/creating-scalable-rag-systems-with-langchain-neo4j-and-advanced-llms-487b0c21b95c?sharedUserId=mohantydibyajyoti47) | **GoPenAI (Medium)** | Knowledge Graph RAG, Neo4j, LangChain, LLMs |
-| 🔗 [**AI at Work: Automating Transcriptions & Performance Reviews**](https://medium.com/@mohantydibyajyoti47/ai-at-work-automating-meeting-transcriptions-assembly-ai-and-performance-reviews-multimodal-rag-112e27a9be2c?sharedUserId=mohantydibyajyoti47) | **Medium** | Speech AI, AssemblyAI, Multimodal RAG |
-| 🔗 [**Building a RAG Chatbot with Qdrant, LangChain, and Streamlit**](https://medium.com/@mohantydibyajyoti47/building-an-rag-chatbot-with-qdrant-langchain-and-streamlit-ed3e3e7a37d7?sharedUserId=mohantydibyajyoti47) | **Medium** | Qdrant Vector DB, LangChain, Streamlit |
-| 🔗 [**A Comprehensive Guide to Data Scaling Techniques**](https://medium.com/@mohantydibyajyoti47/a-comprehensive-guide-to-data-scaling-techniques-17b90762261b?sharedUserId=mohantydibyajyoti47) | **Medium** | Data Preprocessing, Standardization, ML Pipelines |
-
----
-
-## 📈 GitHub Statistics
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dibya069&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dibya069&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
-
----
-
-## 📬 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dibyajyoti-mohanty-4a72501b2/)
-[![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium)](https://medium.com/@mohantydibyajyoti47)
-[![Email](https://img.shields.io/badge/Email-Direct_Message-EA4335?style=for-the-badge&logo=gmail)](mailto:dibyamohanty069@gmail.com)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ccff,50:00ff88,100:060913&height=120&section=footer" width="100%" />
 </div>
