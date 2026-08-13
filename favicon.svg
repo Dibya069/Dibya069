@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#0a0e27"/>
+  <rect x="2" y="2" width="60" height="60" rx="12" fill="none" stroke="#00ff88" stroke-width="1.5" stroke-opacity="0.6"/>
+  
+  <!-- AI Microchip Structure -->
+  <rect x="20" y="20" width="24" height="24" rx="5" fill="#151a30" stroke="#00ccff" stroke-width="2"/>
+  
+  <!-- Connector Pins -->
+  <path d="M 26 14 V 20 M 32 14 V 20 M 38 14 V 20" stroke="#00ff88" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 26 44 V 50 M 32 44 V 50 M 38 44 V 50" stroke="#00ff88" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 14 26 H 20 M 14 32 H 20 M 14 38 H 20" stroke="#00ff88" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 44 26 H 50 M 44 32 H 50 M 44 38 H 50" stroke="#00ff88" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Neural Core -->
+  <circle cx="32" cy="32" r="5" fill="#00ff88"/>
+  <circle cx="32" cy="32" r="8" fill="none" stroke="#00ccff" stroke-width="1.5"/>
+</svg>
