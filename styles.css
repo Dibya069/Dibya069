@@ -361,8 +361,8 @@ body {
 /* Skills Section */
 .skills-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 2rem;
+    grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+    gap: 1.25rem;
     max-width: 1200px;
     margin: 0 auto;
     align-items: start;
@@ -370,7 +370,7 @@ body {
 
 .skill-category {
     background: var(--card-bg);
-    padding: 30px;
+    padding: 1.25rem;
     border-radius: 12px;
     border: 1px solid var(--border-color);
     box-shadow: var(--shadow);
@@ -387,21 +387,21 @@ body {
 }
 
 .skill-category h3 {
-    font-size: 1.3rem;
-    margin-bottom: 1.5rem;
+    font-size: 1.05rem;
+    margin-bottom: 0.8rem;
     color: var(--text-dark);
     flex-shrink: 0;
 }
 
 .skill-category h3 i {
     color: var(--primary-color);
-    margin-right: 10px;
+    margin-right: 8px;
 }
 
 .skill-tags {
     display: flex;
     flex-wrap: wrap;
-    gap: 10px;
+    gap: 6px;
     flex-grow: 1;
     align-content: flex-start;
 }
@@ -409,9 +409,9 @@ body {
 .skill-tag {
     background: rgba(0, 255, 136, 0.1);
     color: var(--primary-color);
-    padding: 8px 16px;
-    border-radius: 20px;
-    font-size: 0.9rem;
+    padding: 4px 10px;
+    border-radius: 14px;
+    font-size: 0.78rem;
     font-weight: 500;
     border: 1px solid rgba(0, 255, 136, 0.3);
     transition: var(--transition);
@@ -421,14 +421,14 @@ body {
     background: var(--primary-color);
     color: var(--darker-bg);
     border-color: var(--primary-color);
-    box-shadow: 0 0 15px rgba(0, 255, 136, 0.3);
+    box-shadow: 0 0 12px rgba(0, 255, 136, 0.3);
 }
 
 /* Projects Section */
 .projects-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-    gap: 2rem;
+    grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+    gap: 1.25rem;
     max-width: 1200px;
     margin: 0 auto;
 }
@@ -436,7 +436,7 @@ body {
 .project-card {
     background: var(--card-bg);
     border-radius: 12px;
-    padding: 30px;
+    padding: 1.25rem;
     border: 1px solid var(--border-color);
     box-shadow: var(--shadow);
     transition: var(--transition);
@@ -445,7 +445,7 @@ body {
 }
 
 .project-card:hover {
-    transform: translateY(-10px);
+    transform: translateY(-5px);
     box-shadow: var(--shadow-glow);
     border-color: var(--primary-color);
 }
@@ -453,23 +453,26 @@ body {
 .project-header {
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    margin-bottom: 1rem;
+    align-items: flex-start;
+    margin-bottom: 0.6rem;
+    gap: 10px;
 }
 
 .project-header h3 {
-    font-size: 1.5rem;
+    font-size: 1.05rem;
+    line-height: 1.35;
     color: var(--text-dark);
 }
 
 .project-links {
     display: flex;
-    gap: 15px;
+    gap: 10px;
+    flex-shrink: 0;
 }
 
 .project-links a {
     color: var(--text-light);
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     transition: var(--transition);
 }
 
@@ -480,23 +483,24 @@ body {
 
 .project-description {
     color: var(--text-light);
-    line-height: 1.6;
-    margin-bottom: 1.5rem;
+    font-size: 0.88rem;
+    line-height: 1.45;
+    margin-bottom: 1rem;
     flex-grow: 1;
 }
 
 .project-tech {
     display: flex;
     flex-wrap: wrap;
-    gap: 8px;
+    gap: 6px;
 }
 
 .tech-badge {
     background: rgba(0, 255, 136, 0.1);
     color: var(--primary-color);
-    padding: 5px 12px;
-    border-radius: 15px;
-    font-size: 0.85rem;
+    padding: 3px 8px;
+    border-radius: 12px;
+    font-size: 0.75rem;
     font-weight: 500;
     border: 1px solid rgba(0, 255, 136, 0.2);
 }
@@ -712,7 +716,8 @@ body {
 
     .projects-grid,
     .skills-grid,
-    .education-grid {
+    .education-grid,
+    .articles-grid {
         grid-template-columns: 1fr;
     }
 }
@@ -734,3 +739,147 @@ body {
         grid-template-columns: 1fr;
     }
 }
+
+/* Section Subtitles */
+.section-subtitle {
+    text-align: center;
+    color: var(--text-light);
+    font-size: 1.1rem;
+    margin-top: -1.5rem;
+    margin-bottom: 2.5rem;
+}
+
+/* Articles Grid & Cards (Compact Design) */
+.articles-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+    gap: 1.25rem;
+}
+
+.article-card {
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 1.25rem;
+    transition: var(--transition);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+    overflow: hidden;
+}
+
+.article-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 3px;
+    height: 100%;
+    background: var(--primary-color);
+    opacity: 0;
+    transition: var(--transition);
+}
+
+.article-card:hover {
+    transform: translateY(-5px);
+    border-color: var(--primary-color);
+    box-shadow: 0 8px 25px rgba(0, 255, 136, 0.12);
+}
+
+.article-card:hover::before {
+    opacity: 1;
+}
+
+.article-header {
+    margin-bottom: 0.6rem;
+}
+
+.article-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.6rem;
+}
+
+.article-platform {
+    font-size: 0.78rem;
+    font-weight: 700;
+    color: #ffc017;
+    background: rgba(255, 192, 23, 0.1);
+    padding: 3px 8px;
+    border-radius: 12px;
+    border: 1px solid rgba(255, 192, 23, 0.3);
+}
+
+.article-read-time {
+    font-size: 0.78rem;
+    color: var(--text-muted);
+}
+
+.article-title {
+    font-size: 1.05rem;
+    margin-bottom: 0.4rem;
+    line-height: 1.35;
+}
+
+.article-title a {
+    color: white;
+    text-decoration: none;
+    transition: var(--transition);
+}
+
+.article-title a:hover {
+    color: var(--primary-color);
+}
+
+.article-publisher {
+    font-size: 0.78rem;
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+}
+
+.article-description {
+    color: var(--text-light);
+    font-size: 0.88rem;
+    line-height: 1.45;
+    margin-bottom: 1rem;
+    flex-grow: 1;
+}
+
+.article-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-bottom: 1rem;
+}
+
+.article-tags .tech-badge {
+    font-size: 0.75rem;
+    padding: 3px 8px;
+}
+
+.article-footer {
+    display: flex;
+    justify-content: flex-end;
+    border-top: 1px solid rgba(255, 255, 255, 0.05);
+    padding-top: 0.75rem;
+}
+
+.read-article-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    color: var(--primary-color);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.85rem;
+    transition: var(--transition);
+}
+
+.read-article-btn:hover {
+    color: white;
+    transform: translateX(4px);
+}
+
+

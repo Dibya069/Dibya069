@@ -70,7 +70,7 @@ document.querySelectorAll('.section').forEach(section => {
 });
 
 // Apply animation to cards
-document.querySelectorAll('.project-card, .education-card, .skill-category, .timeline-item').forEach(card => {
+document.querySelectorAll('.project-card, .education-card, .skill-category, .timeline-item, .article-card').forEach(card => {
     card.style.opacity = '0';
     card.style.transform = 'translateY(20px)';
     card.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
@@ -140,3 +140,4 @@ document.head.appendChild(style);
 console.log('%c👋 Hello! Welcome to my portfolio!', 'font-size: 20px; color: #00ff88; font-weight: bold;');
 console.log('%cInterested in the code? Check out the repository!', 'font-size: 14px; color: #a1a1aa;');
 console.log('%c🤖 AI/ML Engineer | Building the future with AI', 'font-size: 12px; color: #00ffaa; font-style: italic;');
+
